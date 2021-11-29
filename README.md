@@ -6,3 +6,4 @@
 11/28/21
  * LC384. Shuffle an Array
  * LC322. Coin Change
+ * LC1473. Paint House III
