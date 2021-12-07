@@ -14,4 +14,7 @@
  * LC332. Reconstruct Itinerary
 
 12/05/21
- * LC329. Longest Increasing Path in a Matrix 
+ * LC329. Longest Increasing Path in a Matrix
+
+12/06/21
+ * LC1483. Kth Ancestor of a Tree Node
