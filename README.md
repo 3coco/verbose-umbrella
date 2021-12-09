@@ -21,3 +21,6 @@
 
 12/07/21
  * LC630. Course Schedule III
+
+12/08/21
+ * LC315. Count of Smaller Numbers After Self 
