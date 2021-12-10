@@ -25,3 +25,6 @@
 12/08/21
  * LC315. Count of Smaller Numbers After Self
  * LC1392. Longest Happy Prefix
+
+12/09/21
+ * LC432. All O`one Data Structure
