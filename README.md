@@ -23,4 +23,5 @@
  * LC630. Course Schedule III
 
 12/08/21
- * LC315. Count of Smaller Numbers After Self 
+ * LC315. Count of Smaller Numbers After Self
+ * LC1392. Longest Happy Prefix
