@@ -29,3 +29,6 @@
 12/09/21
  * LC432. All O`one Data Structure
  * LC115. Distinct Subsequences
+
+12/19/21
+ * LC149. Max Points on a Line
