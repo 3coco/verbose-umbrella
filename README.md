@@ -32,3 +32,7 @@
 
 12/19/21
  * LC149. Max Points on a Line
+
+12/26/21
+ * LC1044. Longest Duplicate Substring
+ * LC2111. Minimum Operations to Make the Array K-Increasing
