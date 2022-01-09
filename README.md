@@ -37,5 +37,8 @@
  * LC1044. Longest Duplicate Substring
  * LC2111. Minimum Operations to Make the Array K-Increasing
 
+01/03/22
+ * LC269. Alien Dictionary
+
 01/08/22
  * LC135. Candy
