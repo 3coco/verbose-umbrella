@@ -42,3 +42,6 @@
 
 01/08/22
  * LC135. Candy
+
+01/10/22
+ * LC212. Word Search II
