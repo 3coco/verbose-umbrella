@@ -37,6 +37,9 @@
  * LC1044. Longest Duplicate Substring
  * LC2111. Minimum Operations to Make the Array K-Increasing
 
+12/30/21
+ * LC1889. Minimum Space Wasted From Packaging
+
 01/03/22
  * LC269. Alien Dictionary
 
