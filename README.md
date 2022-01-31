@@ -55,3 +55,5 @@
 01/18/22
  * LC37. Sudoku Solver
 
+01/30/22
+ * LC719. Find K-th Smallest Pair Distance
