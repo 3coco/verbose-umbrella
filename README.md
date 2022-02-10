@@ -60,3 +60,6 @@
 
 02/05/22
  * LC2060. Check if an Original String Exists Given Two Encoded Strings
+
+2/09/22
+ * LC381. Insert Delete GetRandom O(1) - Duplicates allowed
