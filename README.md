@@ -63,3 +63,9 @@
 
 2/09/22
  * LC381. Insert Delete GetRandom O(1) - Duplicates allowed
+
+02/25
+ * LC41. First Missing Positive
+
+03/21
+ * LC2071. Maximum Number of Tasks You Can Assign
