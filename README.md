@@ -71,5 +71,5 @@
  * LC2071. Maximum Number of Tasks You Can Assign
 
 04/04
- * 282. Expression Add Operators
- * 460. LFU Cache
+ * LC282. Expression Add Operators
+ * LC460. LFU Cache
