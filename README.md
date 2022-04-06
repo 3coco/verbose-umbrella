@@ -77,3 +77,6 @@
 04/05
  * LC84. Largest Rectangle in Histogram
  * LC2081. Sum of k-Mirror Numbers
+
+04/06
+ * LC218. The Skyline Problem
